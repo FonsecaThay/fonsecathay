@@ -1,7 +1,7 @@
 - 👋 Olá, Eu sou @FonsecaThay
 - 👀 Estou interessada em me tornar programadora
 - 🌱 Atualmente estou aprendendo python3
-- 💞️ Estou procurando colaborar com....ainda não descobrir
+- 💞️ Estou procurando colaborar com a tecnologia futura
 - 📫 Como chegar até mim: thaynarafonseca1203@gmail.com
 
 <!---
