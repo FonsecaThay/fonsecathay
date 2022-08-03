@@ -5,6 +5,6 @@
 - 📫 Como chegar até mim: thaynarafonseca1203@gmail.com
 
 <!---
-FonsecaThay/FonsecaThay is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+fonsecathay/fonsecathay is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
