@@ -1,4 +1,4 @@
-- 👋 Olá, Eu sou @FonsecaThay
+- 👋 Olá, Eu sou @fonsecathay
 - 👀 Estou interessada em me tornar programadora
 - 🌱 Atualmente estou aprendendo python3
 - 💞️ Estou procurando colaborar com a tecnologia futura
