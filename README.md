@@ -1,7 +1,7 @@
 - 👋 Olá, Eu sou @fonsecathay
 - 👀 Estou interessada em me tornar programadora
 - 🌱 Atualmente estou aprendendo python3
-- 💞️ Estou procurando colaborar com a tecnologia futura
+- 💞️ Estou procurando colaborar com o desenvolvimento web
 - 📫 Como chegar até mim: thaynarafonseca1203@gmail.com
 
 <!---
