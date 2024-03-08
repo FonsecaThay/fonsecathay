@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋 Olá, Eu sou @fonsecathay<br>🔭 Atualmente estou trabalhando com java, c/c++<br>- 👀 Estou interessada em me tornar programadora<br>🌱 Atualmente estudo java, c/c++.<br>- 📫 Como chegar até mim: thaynarafonseca1203@gmail.com<br>- 💞️ Estou procurando colaborar com o desenvolvimento de softwares<br>
+👋 Olá, Eu sou @fonsecathay<br>🔭 Atualmente estou trabalhando com python<br>- 👀 Estou interessada em me tornar uma analísta de cibersegurança <br>🌱 Atualmente estudo python.<br>- 📫 Como chegar até mim: thaynarafonseca1203@gmail.com<br>- 💞️ Estou procurando colaborar com o desenvolvimento de softwares<br>
 
 
 ## 🌐 Socials:
